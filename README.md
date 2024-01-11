@@ -11,10 +11,6 @@ This dataset is more complex than the number datasets (like MNIST or SVHN) and n
 
 ### Pre-processed Data
 
-Each of the CelebA images has been cropped to remove parts of the image that don't include a face, then resized down to 64x64x3 NumPy images. Some sample data is shown below.
-
-<img src='assets/processed_face_data.png' width=60% />
-
-> If working locally, this data can be downloaded [by clicking here](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip)
+Each of the CelebA images has been cropped to remove parts of the image that don't include a face, then resized down to 64x64x3 NumPy images. If working locally, this data can be downloaded [by clicking here](https://s3.amazonaws.com/video.udacity-data.com/topher/2018/November/5be7eb6f_processed-celeba-small/processed-celeba-small.zip)
 
 This zip file needs to be extracted from the home directory of this notebook for further loading and processing. After extracting the data, the directory of data should be `processed_celeba_small/`
