@@ -15,4 +15,4 @@ Each of the CelebA images has been cropped to remove parts of the image that don
 
 This zip file needs to be extracted from the home directory of this notebook for further loading and processing. After extracting the data, the directory of data should be `processed_celeba_small/`
 
-The project was completed as part of the Deep Learning with PyTorch on Udacity.
+The project was completed as part of the Deep Learning with PyTorch course on Udacity.
